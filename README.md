@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ppuunn
 - 👀 I’m interested in programming, data science, artificial intelligence, and Japanese language/culture
-- 🌱 I’m currently learning React, NodeJS, and Kotlin
+- 🌱 I’m currently learning Kotlin, Golang, and Vue
 - 📫 How to reach me natthapat.s@live.jp
 
 <!---
